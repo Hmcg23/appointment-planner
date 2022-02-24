@@ -17,7 +17,7 @@ function App(props) {
     APPOINTMENTS: "/appointments",
   };
 
-  /*
+  /* 
   Implement functions to add data to
   contacts and appointments
   */
